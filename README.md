@@ -1,2 +1,1 @@
 # Aternos-bot
-G
