@@ -1,0 +1,2 @@
+# Aternos-bot
+G
